@@ -79,7 +79,7 @@ The CNN model architecture consists of:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/suspectxt/Stock-Prediction-Using-Bidirectional-LSTM.git
+   git clone https://github.com/suspectxt/Signature-Verification-using-CNN.git
    ```
 
 2. Prepare the dataset locally (see instructions above).
@@ -111,4 +111,4 @@ The CNN model architecture consists of:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/suspectxt/Stock-Prediction-Using-Bidirectional-LSTM/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/suspectxt/Signature-Verification-using-CNN/blob/main/LICENSE) file for details.
